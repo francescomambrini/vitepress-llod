@@ -7,7 +7,7 @@ In this example, we list 5 random `skos:Concept`s in the project [PhiloLatin](ht
 ```json params
 {
   "endpoints": [
-    "http://localhost:5173/Latin-Philosophical-Expression.ttl"
+    "https://francescomambrini.github.io/vitepress-llod/Latin-Philosophical-Expression.ttl"
   ],
   "output": "table",
   "parameters": [
