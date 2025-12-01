@@ -3,6 +3,7 @@ import { SparqlPlugin } from 'vitepress-plugin-sparql'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/vitepress-llod/',
   title: "My VitePress + SPARQL Project",
   description: "Unleash the power of VitePress + SPARQL",
   themeConfig: {
